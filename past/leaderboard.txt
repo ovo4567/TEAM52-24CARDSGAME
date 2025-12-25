@@ -1,0 +1,7 @@
+Leaderboard saved at: 2025-04-17 16:08:39
+
+Rank Player Name         Best Score/Second
+--------------------------------------------
+1    Alex                0.13
+2    ble                 1.48
+3    alex                3.06
