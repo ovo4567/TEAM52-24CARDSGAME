@@ -1,11 +1,11 @@
 # 24 CIPHER 
 ## Team 52 Members
 This game is brought to you by the great minds of Team 52:
-- Amos Chan               (3036393336)
-- Au Lok Yi               (3035923354)
-- Herman Leung            (3036395384)
-- Sean Wicaksana Faustine (3036321424)
-- Wong Chi Ho             (3036309347)
+- Amos Chan               (3036xxxx36)
+- Au Lok Yi               (3035xxxx54)
+- Herman Leung            (3036xxxx84)
+- Sean Wicaksana Faustine (3036xxxx24)
+- Wong Chi Ho             (3036xxxx47)
 
 With the help of
 - Ascii Art Archive
